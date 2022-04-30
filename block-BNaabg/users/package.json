@@ -1,0 +1,12 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "user.js",
+  "scripts": {
+    "test": "user.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
